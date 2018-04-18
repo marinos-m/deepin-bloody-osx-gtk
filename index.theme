@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=deepin bloody osx
+Comment=the default GTK theme for deepin with modified colors and window buttons
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=deepin-bloody-osx
+MetacityTheme=deepin-bloody-osx
+IconTheme=deepin
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
