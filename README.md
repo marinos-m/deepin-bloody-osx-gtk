@@ -7,3 +7,5 @@ For GNOME
 # Preview
 
 ![preview](https://github.com/marinos-m/deepin-bloody-osx-gtk/blob/master/preview.png)
+
+![preview 2](https://github.com/marinos-m/deepin-bloody-osx-gtk/blob/master/preview2.png)
