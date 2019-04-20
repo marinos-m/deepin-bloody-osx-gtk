@@ -64,16 +64,16 @@ background-image: -gtk-scaled(url("assets/titlebutton-maximize-press-dark.png"),
     -gtk-icon-effect: dim;
 }
 .gtkstyle-fallback {
-    background-color: #F5F6F7;
-    color: #5c616c;
+    background-color: @base_color;
+    color: @theme_text_color;
 }
 .gtkstyle-fallback:hover {
-    background-color: white;
-    color: #5c616c;
+    background-color: @base_color;
+    color: @theme_text_color;
 }
 .gtkstyle-fallback:active {
-    background-color: #d9dde0;
-    color: #5c616c;
+    background-color: @base_color;
+    color: @theme_text_color;
 }
 .gtkstyle-fallback:disabled {
     background-color: #fbfbfc;
